@@ -15,4 +15,7 @@ $ yarn
 $ node 1-makeExecutableSchema.js
 $ node 2-addResolverFunctionsToSchema.js
 $ node 3-mergeSchemas.js
+$ node 4-extendSchema.js
 ```
+
+Note that demos 1, 2, and 4 work, but demo 3 does not.
